@@ -1,23 +1,23 @@
 .contacts >* {
-        margin-bottom: 0px;
-	}
+	margin-bottom: 0px;
+}
 
 .lists >* {
 	margin-top: 0px;
-	}
+}
 	
 body {
  	font: 16px Helvetica, Sans-Serif;
  	line-height: 24px; 
  	background: url(images/noise.jpg); 
- }
+}
 
 
 div {
         margin-top: 2%;
-	}
+}
 
 h4 {
 	color: gray;
 	margin-bottom: : -15px;
-	}
+}
